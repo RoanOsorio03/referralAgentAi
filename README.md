@@ -13,9 +13,8 @@ Um agente de IA para recomendação de pratos, desenvolvido como um estudo de ca
 
 Você pode testar o aplicativo em tempo real no link abaixo:
 
-**[Clique aqui para acessar o Agente iFood](httpsEXAMPLE.COM)**
+**[Clique aqui para acessar o Agente iFood](http://localhost:8501/)**
 
-*(**Ação Necessária:** Substitua "EXAMPLE.COM" pelo link do seu app no Streamlit Community Cloud)*
 
 ## 📸 GIF do App em Ação
 
