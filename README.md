@@ -15,13 +15,6 @@ Você pode testar o aplicativo em tempo real no link abaixo:
 
 **[Clique aqui para acessar o Agente iFood](http://localhost:8501/)**
 
-
-## 📸 GIF do App em Ação
-
-*(**Ação Necessária:** Grave um GIF rápido (usando um app como ScreenToGif) mostrando você digitando uma fome, clicando no botão e recebendo a resposta. Depois, arraste o arquivo GIF para cá).*
-
-[INSIRA UM GIF DA APLICAÇÃO AQUI]
-
 ---
 
 ## 💡 Contexto do Projeto
