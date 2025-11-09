@@ -13,7 +13,7 @@ Um agente de IA para recomendação de pratos, desenvolvido como um estudo de ca
 
 Você pode testar o aplicativo em tempo real no link abaixo:
 
-**[Clique aqui para acessar o Agente iFood](http://localhost:8501/)**
+**[Clique aqui para acessar o Agente iFood](https://referralagentai-efk74ccxhw4zuaegcjdifn.streamlit.app/)**
 
 ---
 
