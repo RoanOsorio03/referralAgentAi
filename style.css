@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'TipoIfood'; /* A name you choose to use later in your CSS */
+  src: url('fonts/TipoIfood-Regular.woff2') format('woff2'),
+       url('fonts/TipoIfood-Regular.woff') format('woff'),
+       url('fonts/TipoIfood-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Optional: improves performance */
+}
+
+@font-face {
+  font-family: 'TipoIfood';
+  src: url('fonts/TipoIfood-Bold.woff2') format('woff2'),
+       url('fonts/TipoIfood-Bold.woff') format('woff'),
+       url('fonts/TipoIfood-Bold.ttf') format('truetype');
+  font-weight: bold; /* Define the weight for this specific file */
+  font-style: normal;
+  font-display: swap;
+}
+
+section{
+    background-color: #121212;
+}
+.stAppToolbar{
+    background-color: #121212;
+}
+#agente-de-recomendacao{
+    color: #FFF;
+    text-align: left;
+    font-size: 2.5em;
+}
+#ifood{
+    color: #EA1D2C;
+    text-align: left;
+    font-size: 4em;
+    letter-spacing: 5px;
+    font-weight: 1000;
+    font-style: italic;
+    font-family: 'TipoIfood', Helvetica, sans-serif;
+    text-shadow: 0px 7px 29px #EA1D2C;
+}
+#qual-a-sua-fome-hoje{
+    color: #fff;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+.stButton > button{
+    background-color: #EA1D2C;
+    color: #fff;
+    box-shadow: #EA1D2C 0px 7px 29px 0px;
+    transition: all 0.3s ease-in-out;
+}
+.stButton > button:hover{
+    background-color: #FFF;
+    color:#EA1D2C;
+    box-shadow: #fff 0px 7px 29px 0px;
+    transform: scale(1.10);
+}
+.stButton > button:active{
+    background-color: #FFF;
+    color: #EA1D2C;
+    box-shadow: #fff 0px 7px 29px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+.stTextInput > div > div > input{
+    background-color: #121212;
+    border: #EA1D2C 2px solid;
+    border-radius: 5px;
+    color: #fff;
+}
+.stAlert > div {
+    background-color: #EA1D2C; 
+    color: #fff; 
+    box-shadow: #EA1D2C 0px 5px 10px 0px; 
+    border-radius: 8px; 
+    padding: 15px; 
+    margin-bottom: 10px; 
+    transition: all 0.3s ease-in-out; 
+}
+.stAlert > div:hover {
+    background-color: #fff; 
+    color: #EA1D2C; 
+    box-shadow: #fff 0px 10px 15px 0px; 
+    transform: scale(1.02); 
+    cursor: pointer; 
+}
